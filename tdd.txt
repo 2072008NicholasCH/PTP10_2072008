@@ -1,0 +1,6 @@
+1. Program akan di test apakah input user sudah berupa angka untuk input pertama dan kedua
+2. Program akan di test apakah input operator sudah sesuai dengan operasi tambah atau kurang
+3. jika syarat program 1, 2, dan 3 sudah terpenuhi maka program akan berjalan normal
+4. Jika syarat 1 tidak terpenuhi maka program akan berhenti
+5. Jika syarat 2 tidak terpenuhi maka program akan berhenti
+6. Jika syarat 3 tidak terpenhi namun syarat 1 dan 2 terpenuhi maka program hanya akan berjalan sampai input user dan selesai
